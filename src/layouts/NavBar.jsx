@@ -12,7 +12,7 @@ const NavBar = () => {
                 <input type="search" placeholder="Want to learn?" className="h-[30px] w-[150px] border-none outline-none px-4 rounded-[5px]" />
             </div>
             <ul className="ml-14 flex justify-center items-center">
-                <li><a href="">HI Let's build</a></li>
+                <li><a href="">HI Let's build Rydon together </a></li>
             </ul>
             </div>
 
